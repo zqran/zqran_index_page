@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+![zqran's github status](https://github-readme-stats.vercel.app/api?username=zqran&show_icons=true&count_private=true&&hide=stars&theme=cobalt)
+
+### Skills
+
+<a href="https://github.com/zqran">
+  <img width="30" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
+<a href="https://github.com/zqran">
+  <img width="30" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</a>
+
+<a href="https://github.com/zqran">
+  <img width="30" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</a>
+  
+### Top Repositories
+
+<a href="https://github.com/zqran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=ant-design-mobile&theme=cobalt" />
+</a>
+<a href="https://github.com/zqran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=overreacted.io&theme=cobalt" />
+</a>
+
 <!--
 **zqran/zqran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
