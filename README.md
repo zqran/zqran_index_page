@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=ant-design-mobile&theme=cobalt" />
 </a>
 <a href="https://github.com/zqran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=overreacted.io&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=zqran&theme=cobalt" />
 </a>
 
 <!--
