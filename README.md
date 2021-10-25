@@ -10,17 +10,16 @@
 <a href="https://github.com/zqran">
   <img width="30" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </a>
-
 <a href="https://github.com/zqran">
   <img width="30" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-  
+
 ### Top Repositories
 
-<a href="https://github.com/zqran">
+<a href="https://github.com/ant-design/ant-design-mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=ant-design-mobile&theme=cobalt" />
 </a>
-<a href="https://github.com/zqran">
+<a href="https://github.com/zqran/zqran">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=zqran&theme=cobalt" />
 </a>
 
