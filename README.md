@@ -19,8 +19,8 @@
 <a href="https://github.com/ant-design/ant-design-mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=ant-design-mobile&theme=cobalt" />
 </a>
-<a href="https://github.com/ant-design/ant-design-pro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=ant-design-pro&theme=cobalt" />
+<a href="https://github.com/reactjs/reactjs.org">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=reactjs.org&theme=cobalt" />
 </a>
 
 <!--
