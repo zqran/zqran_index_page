@@ -16,6 +16,13 @@
 
 ### Top Repositories
 
+<a href="https://github.com/toeverything/AFFiNE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=AFFiNE&theme=cobalt" />
+</a>
+<a href="https://github.com/toeverything/blocksuite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=blocksuite&theme=cobalt" />
+</a>
+
 <a href="https://github.com/ant-design/ant-design-mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqran&repo=ant-design-mobile&theme=cobalt" />
 </a>
